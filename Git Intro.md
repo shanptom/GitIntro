@@ -104,6 +104,10 @@ git add Scripts.R
   git add file1.R file2.py
   ```  
 
+- Add **files with space in filename**: 
+  ```sh
+  git add "file name.R"
+  ```  
 
 ### **2. Committing Changes**  
 A **commit** saves a snapshot of your project at a specific time.  
@@ -656,6 +660,7 @@ git commit --amend                # Edit last commit
 git branch                        # List branches
 git branch <name>                 # Create new branch
 git checkout <branch>             # Switch branches
+git switch                        # modern version of checkout
 git checkout -b <new-branch>      # Create & switch to branch
 git merge <branch>                # Merge branch into current
 ```
