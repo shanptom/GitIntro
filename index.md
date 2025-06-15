@@ -137,7 +137,7 @@ git log
 git checkout d3b4a1c Scripts.R
 ```  
 
-![`git log` screenshot](Slides/Slide66.png)  
+![git log screenshot](Slides/Slide66.png)  
 
 
 
