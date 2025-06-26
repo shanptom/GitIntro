@@ -528,7 +528,7 @@ Assume you're working on **Analysis Step 3**, but a collaborator wants you to fi
   - Get accidentally committed with the **Step 2** fix (causing confusion), or
   - Force you to lose your **Step 3** progress
 
-#### ** `git stash`**
+#### **`git stash`**
 Stashing lets you **temporarily shelve** uncommitted changes so you can:
 1. Cleanly switch tasks
 2. Push urgent fixes
